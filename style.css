@@ -1,0 +1,12 @@
+body {
+    background-color: #171717;
+  }
+table {
+    table-layout: fixed;
+    width: 400px;
+    border-collapse: collapse;
+}
+table td {
+    height: 30px;   
+    border: 2px #FFA9F7 solid;
+}
